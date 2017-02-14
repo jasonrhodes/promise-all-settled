@@ -7,5 +7,28 @@
     "mocha": "^3.2.0",
     "sinon": "^1.17.7",
     "sinon-as-promised": "^4.0.2"
-  }
+  },
+  "name": "promise-all-settled",
+  "description": "See the `test` directory (or run `npm install && npm test`) to see more complete examples.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "sinon": "^1.17.7",
+    "sinon-as-promised": "^4.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonrhodes/promise-all-settled.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonrhodes/promise-all-settled/issues"
+  },
+  "homepage": "https://github.com/jasonrhodes/promise-all-settled#readme"
 }
